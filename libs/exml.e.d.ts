@@ -1,16 +1,10 @@
 declare module skins{
-	class AnimationSkin extends eui.Skin{
-	}
-}
-declare module skins{
 	class ButtonSkin extends eui.Skin{
 	}
 }
 declare module skins{
 	class CheckBoxSkin extends eui.Skin{
 	}
-}
-declare class CustomLayoutDemoSkin extends eui.Skin{
 }
 declare module skins{
 	class HScrollBarSkin extends eui.Skin{
@@ -23,10 +17,6 @@ declare module skins{
 declare module skins{
 	class ItemRendererSkin extends eui.Skin{
 	}
-}
-declare class LuckyTurntableUISkin extends eui.Skin{
-}
-declare class mountainClimbItemRenderSkin extends eui.Skin{
 }
 declare module skins{
 	class PanelSkin extends eui.Skin{
@@ -48,13 +38,11 @@ declare module skins{
 	class TextInputSkin extends eui.Skin{
 	}
 }
+declare class TileMapDemoSkin extends eui.Skin{
+}
 declare module skins{
 	class ToggleSwitchSkin extends eui.Skin{
 	}
-}
-declare class TreasureHuntSkin extends eui.Skin{
-}
-declare class TreasureRewardItemRenderSkin extends eui.Skin{
 }
 declare module skins{
 	class VScrollBarSkin extends eui.Skin{
